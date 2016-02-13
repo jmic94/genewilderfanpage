@@ -1,0 +1,9 @@
+h1 {color: blue; font-size: 20px; text-align: center;}
+p {font-size: 10px;}
+.cursive {font-family: cursive;}
+.purple {color: purple;}
+#green {color: green;}
+.centerme {text-align: center; list-style-position: inside;}
+body {
+	background-image: url("http://greensportsalliance.org/images/darkGreenSquare.gif");
+}
